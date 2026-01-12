@@ -1,0 +1,9 @@
+conda create -n ks python=3.9
+conda activate ks
+conda install numpy pandas jupyterlab
+jupyter lab
+jupyter lab --allow-root --ip 0.0.0.0 --port 9999
+jupyter server password
+jupyter lab --allow-root --ip 0.0.0.0 --port 9999
+cd live/
+history -w 01_b_pff_key_skills.txt

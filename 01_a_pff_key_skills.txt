@@ -1,0 +1,19 @@
+python
+conda env list
+conda list
+conda install ipython
+ipython
+ls
+ls miniconda3/
+apt install nano
+nano
+nano .bashrc 
+nano .bashrc
+conda env list
+conda create --name ks python=3.9
+conda activate ks
+conda list
+python
+conda install numpy pandas jupyterlab
+ipython
+jupyter lab
